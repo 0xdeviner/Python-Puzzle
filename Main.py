@@ -109,7 +109,7 @@ def main():
         pygame.display.update()
         FPSCLOCK.tick(FPS)
 
-export = "g40FyMCi"
+
 
 def terminate():
     pygame.quit()
