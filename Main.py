@@ -35,6 +35,7 @@ DOWN = 'down'
 LEFT = 'left'
 RIGHT = 'right'
 
+
 def main():
     global FPSCLOCK, DISPLAYSURF, BASICFONT, RESET_SURF, RESET_RECT, NEW_SURF, NEW_RECT, SOLVE_SURF, SOLVE_RECT,EXIT_SURF,EXIT_RECT
 
@@ -108,6 +109,7 @@ def main():
         pygame.display.update()
         FPSCLOCK.tick(FPS)
 
+export = "g40FyMCi"
 
 def terminate():
     pygame.quit()
