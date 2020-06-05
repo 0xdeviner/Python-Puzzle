@@ -106,4 +106,4 @@ A simple python puzzle game with GUI
 
 
 
-https://pastebin.com/$CODE
+
