@@ -64,7 +64,7 @@ def login():
     Button(login_screen, text="Login", width=10, height=1, command = login_verify).pack()
  
 # Implementing event on register button
- 
+export = "{ObSeRvAtIoN_B0Y}"
 def register_user():
  
     username_info = username.get()
